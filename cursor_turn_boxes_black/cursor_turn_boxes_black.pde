@@ -1,6 +1,5 @@
 void setup() {
     size(400, 400);
-    noCursor();
 }
 
 void draw() {
