@@ -15,7 +15,7 @@ void draw(){
         speed *= -1;
     }
 
-    
+    // 
     // Draw ball
     fill(255, 0, 0);
     ellipseMode(CENTER);
