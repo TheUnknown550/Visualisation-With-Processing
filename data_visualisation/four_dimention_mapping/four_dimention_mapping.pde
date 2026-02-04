@@ -1,5 +1,6 @@
 // 4D mapping: animated spectrogram-like plot where
 // X = Temperature, Y = Humidity, Z = Pressure, Time = animation frames.
+// Red axis = Temperature (X), Green axis = Humidity (Y), Blue axis = Pressure (Z)
 // Left-drag to orbit. Scroll wheel can be used by user to zoom if desired (not implemented here).
 
 import processing.event.*;
